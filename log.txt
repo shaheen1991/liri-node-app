@@ -1,0 +1,22 @@
+, my-tweets, spotify-this-song,-----------------------------------------------------------------------
+Movie Title: Jaws
+Year movie released: 1975
+Movie rating: PG
+Rotten Tomatoes Rating: 97%
+Internet Movie Database Rating: 8.0/10
+Country: USA
+Language: English
+Movie Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+Actors in MovieA local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Movie Title: Jaws
+Year movie released: 1975
+Movie rating: PG
+Rotten Tomatoes Rating: 97%
+Internet Movie Database Rating: 8.0/10
+Country: USA
+Language: English
+Movie Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+Actors in Movie: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+-----------------------------------------------------------------------
