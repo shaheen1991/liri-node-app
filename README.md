@@ -23,10 +23,10 @@ Using the fs Node package, outputs the commands entered into a .txt file called 
 ```
 -Node.JS
 -Node Package Modules
-	-Twitter
-	-omdb
-	-spotify
-	-fs (File System)
+  -Twitter
+  -omdb
+  -node-spotify-api
+  -fs (File System)
   -request
   -dotenv
   ```
